@@ -82,7 +82,7 @@ const menu = [
   },
 ];
 
-// Buton elementlerini id'lerini değişkene atama
+// Buton elementlerini değişkenlere atama
 const btnAll = document.querySelector("#All");
 const btnKorea = document.querySelector("#Korea");
 const btnJapan = document.querySelector("#Japan");
