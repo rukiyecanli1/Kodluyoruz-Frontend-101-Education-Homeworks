@@ -82,13 +82,13 @@ const menu = [
   },
 ];
 
-// Buton id'lerini değişkene atama
+// Buton elementlerini değişkenlere atama
 const btnAll = document.querySelector("#All");
 const btnKorea = document.querySelector("#Korea");
 const btnJapan = document.querySelector("#Japan");
 const btnChina = document.querySelector("#China");
 
-// body id'sini bir değişkene atama
+// body elementini bir değişkene atama
 const body = document.querySelector("#menu-group");
 
 // site açıldığında ekranda tüm yemekleri gösterme
